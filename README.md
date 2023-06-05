@@ -1,2 +1,2 @@
 # SciMLRP
-SciMLRP
+SciMLRP in readthedocs
