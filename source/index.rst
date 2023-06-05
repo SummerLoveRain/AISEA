@@ -9,33 +9,33 @@ Welcome to SciMLRP's Team!
 Team Members
 ====================================
 
-.. .. |QiaolinHe| image:: ../../_static/prof/QiaolinHe.png
+.. .. |QiaolinHe| image:: ./_static/prof/QiaolinHe.png
 ..                     :scale: 119
-.. .. |ShiquanZhang| image:: ../../_static/prof/ShiquanZhang.png
+.. .. |ShiquanZhang| image:: ./_static/prof/ShiquanZhang.png
 ..                     :scale: 30
-.. .. |HelinGong| image:: ../../_static/prof/HelinGong.png
+.. .. |HelinGong| image:: ./_static/prof/HelinGong.png
 ..                     :scale: 14
 
-.. |QiaolinHe| image:: ../../_static/prof/QiaolinHe.png
+.. |QiaolinHe| image:: ./_static/prof/QiaolinHe.png
                     :width: 206
                     :height: 289
-.. |ShiquanZhang| image:: ../../_static/prof/ShiquanZhang.png
+.. |ShiquanZhang| image:: ./_static/prof/ShiquanZhang.png
                     :width: 206
                     :height: 289
-.. |HelinGong| image:: ../../_static/prof/HelinGong.png
+.. |HelinGong| image:: ./_static/prof/HelinGong.png
                     :width: 206
                     :height: 289
 
-.. |YuYang| image:: ../../_static/stu/YuYang.png
+.. |YuYang| image:: ./_static/stu/YuYang.png
                     :width: 167
                     :height: 213
-.. |QihongYang| image:: ../../_static/stu/QihongYang.png
+.. |QihongYang| image:: ./_static/stu/QihongYang.png
                     :width: 167
                     :height: 213
-.. |ShupeiYu| image:: ../../_static/stu/ShupeiYu.png
+.. |ShupeiYu| image:: ./_static/stu/ShupeiYu.png
                     :width: 167
                     :height: 213
-.. |XufanChen| image:: ../../_static/stu/XufanChen.png
+.. |XufanChen| image:: ./_static/stu/XufanChen.png
                     :width: 167
                     :height: 213
 
@@ -105,10 +105,10 @@ GIPMNN and PC-GIPMNN
 #. Qihong Yang, Yu Yang, Yangtao Deng, Qiaolin He, Helin Gong, Shiquan Zhang, `A Physics-Constrained Neural Network for Solving Discontinuous Interface K-eigenvalue Problem with Application to Reactor Physics <https://arxiv.org/abs/2209.11134>`_, preprint, 2023
 
 
-.. |SCUMath| image:: ../../_static/scu/scu_math.jpg
+.. |SCUMath| image:: ./_static/scu/scu_math.jpg
                   :width: 454
                   :height: 87
-.. |SPEIT| image:: ../../_static/speit/speit.png
+.. |SPEIT| image:: ./_static/speit/speit.png
                   :width: 727
                   :height: 87
 
