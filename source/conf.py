@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'SciMLRP'
+project = 'SciNEA'
 copyright = '2023, yangqh'
 author = 'yangqh'
 release = 'v0.0.1'

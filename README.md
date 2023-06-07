@@ -1,2 +1,3 @@
-# SciMLRP
-SciMLRP in readthedocs
+# SciNEA
+SciNEA: Scientific Computing for Nuclear Engineering Applications
+
