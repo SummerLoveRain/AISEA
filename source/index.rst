@@ -12,34 +12,43 @@ Team Members
 ====================================
 
 .. .. |QiaolinHe| image:: ./_static/prof/QiaolinHe.png
-..                     :scale: 119
+..                     :width: 206
+..                     :height: 289
 .. .. |ShiquanZhang| image:: ./_static/prof/ShiquanZhang.png
-..                     :scale: 30
+..                     :width: 206
+..                     :height: 289
 .. .. |HelinGong| image:: ./_static/prof/HelinGong.png
-..                     :scale: 14
+..                     :width: 206
+..                     :height: 289
 
 .. |QiaolinHe| image:: ./_static/prof/QiaolinHe.png
                     :width: 206
-                    :height: 289
 .. |ShiquanZhang| image:: ./_static/prof/ShiquanZhang.png
                     :width: 206
-                    :height: 289
 .. |HelinGong| image:: ./_static/prof/HelinGong.png
                     :width: 206
-                    :height: 289
+
+.. .. |YuYang| image:: ./_static/stu/YuYang.png
+..                     :width: 167
+..                     :height: 213
+.. .. |QihongYang| image:: ./_static/stu/QihongYang.png
+..                     :width: 167
+..                     :height: 213
+.. .. |ShupeiYu| image:: ./_static/stu/ShupeiYu.png
+..                     :width: 167
+..                     :height: 213
+.. .. |XufanChen| image:: ./_static/stu/XufanChen.png
+..                     :width: 167
+..                     :height: 213
 
 .. |YuYang| image:: ./_static/stu/YuYang.png
-                    :width: 167
-                    :height: 213
+                  :width: 167
 .. |QihongYang| image:: ./_static/stu/QihongYang.png
                     :width: 167
-                    :height: 213
 .. |ShupeiYu| image:: ./_static/stu/ShupeiYu.png
                     :width: 167
-                    :height: 213
 .. |XufanChen| image:: ./_static/stu/XufanChen.png
                     :width: 167
-                    :height: 213
 
 
 .. =================      ==================  ================
@@ -93,15 +102,22 @@ Members of the team were awarded **the second prize of natural science by the Mi
 Recently, they have successfully completed the development of a module for 3D ground stress modelling and display of shale gas; designed an efficient pre-processing method for rapid solution of large-scale linear equation systems for subsea oil field development, improving the simulation efficiency; established a reconstruction model and algorithm based on partial observation data of reactors and fuel rods, realizing data reconstruction and inversion of physical parameters.
 
 
+.. .. |Boat| image:: ./_static/nuclear/boat.png
+..                   :width: 257
+..                   :height: 149
+.. .. |Base| image:: ./_static/nuclear/base.png
+..                   :width: 257
+..                   :height: 149
+.. .. |Core| image:: ./_static/nuclear/core.png
+..                   :width: 257
+..                   :height: 149
+
 .. |Boat| image:: ./_static/nuclear/boat.png
                   :width: 257
-                  :height: 149
 .. |Base| image:: ./_static/nuclear/base.png
                   :width: 257
-                  :height: 149
 .. |Core| image:: ./_static/nuclear/core.png
                   :width: 257
-                  :height: 149
 
 +------------+------------+---------------+
 |  |Boat|    |  |Base|    |     |Core|    |
@@ -267,12 +283,16 @@ Cited by
 .. .. |SPEIT| image:: ./_static/speit/speit.png
 ..                   :width: 527
 ..                   :height: 87
+.. .. |SCUMath| image:: ./_static/scu/scu_math_red.png
+..                   :width: 380
+..                   :height: 60
+.. .. |SPEIT| image:: ./_static/speit/speit.png
+..                   :width: 520
+..                   :height: 50
 .. |SCUMath| image:: ./_static/scu/scu_math_red.png
                   :width: 380
-                  :height: 60
 .. |SPEIT| image:: ./_static/speit/speit.png
                   :width: 520
-                  :height: 50
 
 +--------------+------------+
 |   |SCUMath|  | |SPEIT|    |
