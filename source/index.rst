@@ -116,7 +116,7 @@ DEPINN: A Data-Enabled Physics-Informed Neural Network
 .. |DEPINN| image:: ./_static/results/DEPINN.png
 .. |1D_circle| image:: ./_static/results/1D_circle.png
 .. |2D_cylinder| image:: ./_static/results/2D_cylinder.png
-.. |IAEA| image:: ./_static/results/IAEA.png
+.. |IAEA| image:: ./_static/results/2d_IAEA.png
 
 +-------------------------+---------------------------+
 ||1D_circle|              |  |2D_cylinder|            |
@@ -197,7 +197,7 @@ Since we attain :math:`\Phi_k` directly through the neural network instead of so
 
 .. math::
       Loss_{gipmnn} = \sum_{i=1}^N \lvert \mathcal{L} \Phi_k(\boldsymbol{x}_i) - \lambda_{k-1} \mathcal{Q} \Phi_{k-1}(\boldsymbol{x}_i) \rvert ^2
-      
+
 When the neural network gets convergence, we obtain the smallest eigenvalue and the associated eigenfunction expressed by the neural network.
 
 PC-GIPMNN: Physics-Constrained GIPMNN
