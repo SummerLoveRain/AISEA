@@ -6,12 +6,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
-    <title>Welcome to SciMLRP’s Team! &#8212; SciMLRP v0.0.1 documentation</title>
+    <title>Welcome to SciNEA’s Team! &#8212; SciNEA v0.0.1 documentation</title>
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="_static/basic_mod.css?v=0.7.0-1" />
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/doctools.js"></script>
     <script src="_static/sphinx_highlight.js"></script>
+    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script src="_static/js/theme.js"></script>
     <script src="_static/js/petite-vue.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
@@ -29,7 +30,7 @@
         <p id="toggle_sidebar">
             <a href="#" title="Toggle sidebar">|||</a>
         </p>
-        <h1><a href="#" title="Go to homepage">SciMLRP v0.0.1 documentation</a></h1>
+        <h1><a href="#" title="Go to homepage">SciNEA v0.0.1 documentation</a></h1>
 
         <a id="mode_toggle" href="#" @click.prevent="handleClick" :title="mode">
     <template v-if="mode == 'light'">
@@ -127,8 +128,9 @@
         <div class="bodywrapper">
           <div class="body" role="main">
             
-  <section id="welcome-to-scimlrp-s-team">
-<h1>Welcome to SciMLRP’s Team!<a class="headerlink" href="#welcome-to-scimlrp-s-team" title="Permalink to this heading">¶</a></h1>
+  <section id="welcome-to-scinea-s-team">
+<h1>Welcome to SciNEA’s Team!<a class="headerlink" href="#welcome-to-scinea-s-team" title="Permalink to this heading">¶</a></h1>
+<p><strong>SciNEA: Scientific Computing for Nuclear Engineering Applications</strong></p>
 </section>
 <section id="team-members">
 <h1>Team Members<a class="headerlink" href="#team-members" title="Permalink to this heading">¶</a></h1>
@@ -185,10 +187,116 @@
 <div class="line"><strong>…</strong></div>
 </div>
 </div></blockquote>
-<p>Members of the team were awarded the second prize of natural science by the Ministry of Education in 2020, undertook three research projects of the National Natural Science Foundation of China, presided over two sub-projects of the National Key Research and Development Program and one pre-research project of the installation and development, published more than 50 papers in well-known national journals such as JCP and SIAM Multiscale Model and Simulation, and granted one patent. Recently, them have successfully completed the development of a module for 3D ground stress modelling and display of shale gas; designed an efficient pre-processing method for rapid solution of large-scale linear equation systems for subsea oil field development, improving the simulation efficiency; established a reconstruction model and algorithm based on partial observation data of reactors and fuel rods, realizing data reconstruction and inversion of physical parameters.</p>
+<p>Members of the team were awarded <strong>the second prize of natural science by the Ministry of Education in 2020</strong>, undertook <strong>three research projects of the National Natural Science Foundation of China</strong>, presided over <strong>two sub-projects of the National Key Research and Development Program</strong> and <strong>one pre-research project of the installation and development</strong>, published more than 50 papers in well-known national journals such as JCP and SIAM Multiscale Model and Simulation, and granted one patent.</p>
+<p>Recently, them have successfully completed the development of a module for 3D ground stress modelling and display of shale gas; designed an efficient pre-processing method for rapid solution of large-scale linear equation systems for subsea oil field development, improving the simulation efficiency; established a reconstruction model and algorithm based on partial observation data of reactors and fuel rods, realizing data reconstruction and inversion of physical parameters.</p>
+<table class="docutils align-default">
+<tbody>
+<tr class="row-odd"><td><p><a class="reference internal" href="_images/boat.png"><img alt="Boat" src="_images/boat.png" style="width: 257px; height: 149px;" /></a></p></td>
+<td><p><a class="reference internal" href="_images/base.png"><img alt="Base" src="_images/base.png" style="width: 257px; height: 149px;" /></a></p></td>
+<td><p><a class="reference internal" href="_images/core.png"><img alt="Core" src="_images/core.png" style="width: 257px; height: 149px;" /></a></p></td>
+</tr>
+</tbody>
+</table>
 </section>
-<section id="papers">
-<h1>Papers<a class="headerlink" href="#papers" title="Permalink to this heading">¶</a></h1>
+<section id="some-problems-and-results">
+<h1>Some Problems and Results<a class="headerlink" href="#some-problems-and-results" title="Permalink to this heading">¶</a></h1>
+<section id="depinn-a-data-enabled-physics-informed-neural-network">
+<h2>DEPINN: A Data-Enabled Physics-Informed Neural Network<a class="headerlink" href="#depinn-a-data-enabled-physics-informed-neural-network" title="Permalink to this heading">¶</a></h2>
+<table class="docutils align-default">
+<tbody>
+<tr class="row-odd"><td><p><img alt="1D_circle" src="_images/1D_circle.png" /></p></td>
+<td><p><img alt="2D_cylinder" src="_images/2D_cylinder.png" /></p></td>
+</tr>
+<tr class="row-even"><td><p>finite spherical reactor</p></td>
+<td><p>finite cylindrical reactor</p></td>
+</tr>
+</tbody>
+</table>
+<table class="docutils align-default">
+<tbody>
+<tr class="row-odd"><td><p><img alt="IAEA" src="_images/IAEA.png" /></p></td>
+</tr>
+<tr class="row-even"><td><p>The 2D IAEA Benchmark Problem (IBP) (1977) modeled
+by two-dimension two-group diffusion equations,
+which was adapted from a practical nuclear reactor.</p></td>
+</tr>
+</tbody>
+</table>
+<table class="docutils align-default">
+<tbody>
+<tr class="row-odd"><td><p><img alt="DEPINN" src="_images/DEPINN.png" /></p></td>
+</tr>
+<tr class="row-even"><td><p>The process of solving the 2D IBP by DEPINN.</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="depinn-uncertainty-analysis">
+<h2>DEPINN: Uncertainty Analysis<a class="headerlink" href="#depinn-uncertainty-analysis" title="Permalink to this heading">¶</a></h2>
+<table class="docutils align-default">
+<tbody>
+<tr class="row-odd"><td><p><img alt="DEPINN_noise" src="_images/DEPINN_noise.png" /></p></td>
+</tr>
+<tr class="row-even"><td><p>The process of solving parametric neutron diffusion
+eigenvalue problems containing noisy data by DEPINN.</p></td>
+</tr>
+</tbody>
+</table>
+<table class="docutils align-default">
+<tbody>
+<tr class="row-odd"><td><p><img alt="1D_circle_noise" src="_images/noise_1.png" /></p></td>
+</tr>
+<tr class="row-even"><td><p>finite spherical reactor: prediction 𝑢 from different
+prior data noise scales. Interval loss is used in
+(a)(c) on the left, and SSE loss is used in (b)(d) on
+the right. (a) 𝜎 = 0.05. (b) 𝜎 = 0.05. (c) 𝜎 = 0.1.
+(d) 𝜎 = 0.1.</p></td>
+</tr>
+<tr class="row-odd"><td><p><img alt="2D_cylinder_noise" src="_images/noise_2.png" /></p></td>
+</tr>
+<tr class="row-even"><td><p>finite cylindrical reactor: prediction 𝑢 from
+different prior data noise scales. Interval loss
+is used in (a)(c) on the left, and SSE loss is used
+in (b)(d) on the right. (a) 𝜎 = 0.05. (b) 𝜎 = 0.05.
+(c) 𝜎 = 0.1.  (d) 𝜎 = 0.1.</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="gipmnn-generalized-inverse-power-method-neural-network">
+<h2>GIPMNN: Generalized Inverse Power Method Neural Network<a class="headerlink" href="#gipmnn-generalized-inverse-power-method-neural-network" title="Permalink to this heading">¶</a></h2>
+<p>At first, we present how to use the generalized inverse power method to solve the following Equation.</p>
+<div class="math notranslate nohighlight">
+\[\boldsymbol{A} \boldsymbol{\phi} = \lambda \boldsymbol{B} \boldsymbol{\phi}\]</div>
+<p>The key step we need to focus on is shown in the following Equation, where <span class="math notranslate nohighlight">\(\mathbf{A}\)</span> and <span class="math notranslate nohighlight">\(\mathbf{B}\)</span> are two matrices, <span class="math notranslate nohighlight">\(\lambda_{k-1}\)</span> and <span class="math notranslate nohighlight">\(\boldsymbol{\phi}_{k-1}\)</span> are the results of previous iteration. Therefore, <span class="math notranslate nohighlight">\(\lambda_k\)</span> and <span class="math notranslate nohighlight">\(\boldsymbol{\phi}_k\)</span>  are obtained by the following Equation.</p>
+<div class="math notranslate nohighlight">
+\[\begin{split}&amp;\boldsymbol{A} \boldsymbol{\phi}_k = \lambda_{k-1} \boldsymbol{B} \boldsymbol{\phi}_{k-1}, \\
+&amp;\lambda_k = \frac{&lt;\boldsymbol{A}\boldsymbol{\phi}_{k}, \boldsymbol{\phi}_{k}&gt;}{&lt;\boldsymbol{B}\boldsymbol{\phi}_{k}, \boldsymbol{\phi}_{k}&gt;}\end{split}\]</div>
+<p>We use the neural network <span class="math notranslate nohighlight">\(\mathcal{N}^{\theta}\)</span> to represent the approximated eigenvector <span class="math notranslate nohighlight">\(\Phi\)</span>. The <span class="math notranslate nohighlight">\(\mathcal{N}^{\theta}\)</span> is utilized to represent the neural network and the eigenfunction <span class="math notranslate nohighlight">\(\phi\)</span> can be denoted as <span class="math notranslate nohighlight">\(\Phi=\mathcal{N}^{\theta}\)</span>. In GIPMNN, the following Equation is an analogue to the key code of generalized inverse power method, where <span class="math notranslate nohighlight">\(\mathcal{L}\)</span> and <span class="math notranslate nohighlight">\(\mathcal{Q}\)</span> are linear differential operators which are implemented by AD rather than specially discretized matrices. The same as the generalized inverse power method, we will record the results <span class="math notranslate nohighlight">\(\lambda_{k-1}\)</span> of previous iteration. One difference with the generalized inverse power method is that instead of recording <span class="math notranslate nohighlight">\(\boldsymbol{\phi}_{k-1}\)</span>, we record <span class="math notranslate nohighlight">\(\mathcal{Q}\Phi_{k-1}\)</span>. It is worth noting that <span class="math notranslate nohighlight">\(\Phi_{k-1}\)</span> is the eigenfunction represented by the neural network in <span class="math notranslate nohighlight">\((k-1)\)</span>-th iteration and <span class="math notranslate nohighlight">\(\mathcal{Q}\Phi_{k-1}\)</span> is realized by AD. In <span class="math notranslate nohighlight">\(k\)</span>-th iteration, we directly compute <span class="math notranslate nohighlight">\(\Phi_{k}\)</span> through the neural network, that is, <span class="math notranslate nohighlight">\(\Phi_k = \mathcal{N}^{\theta}\)</span>, and calculate <span class="math notranslate nohighlight">\(\mathcal{L}\Phi_{k}\)</span> by AD.</p>
+<div class="math notranslate nohighlight">
+\[\begin{split}&amp;\mathcal{L} \Phi_{k} = \lambda_{k-1} \mathcal{Q} \Phi_{k-1}, \\
+&amp;\lambda_k = \frac{&lt;\mathcal{L}\Phi_{k}, \Phi_{k}&gt;}{&lt;\mathcal{Q}\Phi_{k}, \Phi_{k}&gt;}\end{split}\]</div>
+<p>Since we attain <span class="math notranslate nohighlight">\(\Phi_k\)</span> directly through the neural network instead of solving the equation <span class="math notranslate nohighlight">\(\mathcal{L} \Phi_{k} = \lambda_{k-1} \mathcal{Q} \Phi_{k-1}\)</span>, we define the loss function <span class="math notranslate nohighlight">\(Loss_{gipmnn}\)</span> in the following Equation to propel the neural network to learn <span class="math notranslate nohighlight">\(\Phi_k\)</span>. When the neural network gets convergence, we obtain the smallest eigenvalue and the associated eigenfunction expressed by the neural network.</p>
+<div class="math notranslate nohighlight">
+\[Loss_{gipmnn} = \sum_{i=1}^N \lvert \mathcal{L} \Phi_k(\boldsymbol{x}_i) - \lambda_{k-1} \mathcal{Q} \Phi_{k-1}(\boldsymbol{x}_i) \rvert ^2\]</div>
+</section>
+<section id="pc-gipmnn-physics-constrained-gipmnn">
+<h2>PC-GIPMNN: Physics-Constrained GIPMNN<a class="headerlink" href="#pc-gipmnn-physics-constrained-gipmnn" title="Permalink to this heading">¶</a></h2>
+<table class="docutils align-default">
+<tbody>
+<tr class="row-odd"><td><p><img alt="PC_GIPMNN" src="_images/PC_GIPMNN.png" /></p></td>
+</tr>
+<tr class="row-even"><td><p>Illustration of PC-GIPMNN architecture diagram.
+There are multiple neurons in the output layer
+which denote the eigenfunctions in different
+sub-domains.</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="publications">
+<h1>Publications<a class="headerlink" href="#publications" title="Permalink to this heading">¶</a></h1>
 <section id="depinn">
 <h2>DEPINN<a class="headerlink" href="#depinn" title="Permalink to this heading">¶</a></h2>
 <ol class="arabic simple">
@@ -209,8 +317,8 @@
 </ol>
 <table class="docutils align-default">
 <tbody>
-<tr class="row-odd"><td><p><a class="reference internal" href="_images/scu_math.jpg"><img alt="SCUMath" src="_images/scu_math.jpg" style="width: 454px; height: 87px;" /></a></p></td>
-<td><p><a class="reference internal" href="_images/speit.png"><img alt="SPEIT" src="_images/speit.png" style="width: 727px; height: 87px;" /></a></p></td>
+<tr class="row-odd"><td><p><a class="reference internal" href="_images/scu_math_red.png"><img alt="SCUMath" src="_images/scu_math_red.png" style="width: 380px; height: 60px;" /></a></p></td>
+<td><p><a class="reference internal" href="_images/speit.png"><img alt="SPEIT" src="_images/speit.png" style="width: 520px; height: 50px;" /></a></p></td>
 </tr>
 </tbody>
 </table>
@@ -231,10 +339,17 @@
             <p><a class="toggle_right_sidebar" href="#"><span class="icon">&gt;</span><span>Page contents:<span></a></p>
             <div class="page_toc">
                 <ul>
-<li><a class="reference internal" href="#">Welcome to SciMLRP’s Team!</a></li>
+<li><a class="reference internal" href="#">Welcome to SciNEA’s Team!</a></li>
 <li><a class="reference internal" href="#team-members">Team Members</a></li>
 <li><a class="reference internal" href="#research-fields">Research Fields</a></li>
-<li><a class="reference internal" href="#papers">Papers</a><ul>
+<li><a class="reference internal" href="#some-problems-and-results">Some Problems and Results</a><ul>
+<li><a class="reference internal" href="#depinn-a-data-enabled-physics-informed-neural-network">DEPINN: A Data-Enabled Physics-Informed Neural Network</a></li>
+<li><a class="reference internal" href="#depinn-uncertainty-analysis">DEPINN: Uncertainty Analysis</a></li>
+<li><a class="reference internal" href="#gipmnn-generalized-inverse-power-method-neural-network">GIPMNN: Generalized Inverse Power Method Neural Network</a></li>
+<li><a class="reference internal" href="#pc-gipmnn-physics-constrained-gipmnn">PC-GIPMNN: Physics-Constrained GIPMNN</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#publications">Publications</a><ul>
 <li><a class="reference internal" href="#depinn">DEPINN</a></li>
 <li><a class="reference internal" href="#pmnn-and-ipmnn">PMNN and IPMNN</a></li>
 <li><a class="reference internal" href="#gipmnn-and-pc-gipmnn">GIPMNN and PC-GIPMNN</a></li>
