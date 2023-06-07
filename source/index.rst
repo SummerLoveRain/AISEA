@@ -90,7 +90,7 @@ Research Fields
 
 Members of the team were awarded **the second prize of natural science by the Ministry of Education in 2020**, undertook **three research projects of the National Natural Science Foundation of China**, presided over **two sub-projects of the National Key Research and Development Program** and **one pre-research project of the installation and development**, published more than 50 papers in well-known national journals such as JCP and SIAM Multiscale Model and Simulation, and granted one patent. 
 
-Recently, them have successfully completed the development of a module for 3D ground stress modelling and display of shale gas; designed an efficient pre-processing method for rapid solution of large-scale linear equation systems for subsea oil field development, improving the simulation efficiency; established a reconstruction model and algorithm based on partial observation data of reactors and fuel rods, realizing data reconstruction and inversion of physical parameters.
+Recently, they have successfully completed the development of a module for 3D ground stress modelling and display of shale gas; designed an efficient pre-processing method for rapid solution of large-scale linear equation systems for subsea oil field development, improving the simulation efficiency; established a reconstruction model and algorithm based on partial observation data of reactors and fuel rods, realizing data reconstruction and inversion of physical parameters.
 
 
 .. |Boat| image:: ./_static/nuclear/boat.png
@@ -107,6 +107,16 @@ Recently, them have successfully completed the development of a module for 3D gr
 |  |Boat|    |  |Base|    |     |Core|    |
 +------------+------------+---------------+
 
+Research Awards
+====================================
+
+1. Won **the Second Class of Progress of Science and Technology Prize of Sichuan Province (First author)**. Research and development of key technologies for online monitoring system of HPR1000 reactor core 2021
+
+2. Won **the Second Class of Progress of Science and Technology Prize of China Nuclear Energy Association (Ninth author)**. Independent design research and equipment development of HPR1000 reactor core measurement system 2021
+
+3. Won **the China patent awards of excellence (Fourth author)**. A realization method of reactor LPD and DNBR online protection and monitoring 2021
+
+
 Some Problems and Results
 ====================================
 
@@ -116,14 +126,17 @@ DEPINN: A Data-Enabled Physics-Informed Neural Network
 .. |DEPINN| image:: ./_static/results/DEPINN.png
 .. |1D_circle| image:: ./_static/results/1D_circle.png
 .. |2D_cylinder| image:: ./_static/results/2D_cylinder.png
-.. |IAEA| image:: ./_static/results/IAEA.png
+.. |IAEA| image:: ./_static/results/2D_IAEA.png
 
 +-------------------------+---------------------------+
 ||1D_circle|              |  |2D_cylinder|            |
 +-------------------------+---------------------------+
-|finite spherical reactor |finite cylindrical reactor |
+|Finite spherical reactor |Finite cylindrical reactor |
 +-------------------------+---------------------------+
-
+|`https://www.nuclear-power.com/nuclear-power/reactor |
+|-physics/neutron-diffusion-theory/finite-spherical-  |
+|reactor/`                                            |
++-----------------------------------------------------+
 
 +----------------------------------------------------+
 ||IAEA|                                              |
@@ -159,7 +172,7 @@ DEPINN: Uncertainty Analysis
 +-----------------------------------------------------+
 ||1D_circle_noise|                                    |
 +-----------------------------------------------------+
-|finite spherical reactor: prediction 𝑢 from different|
+|Finite spherical reactor: prediction 𝑢 from different|
 |prior data noise scales. Interval loss is used in    |
 |(a)(c) on the left, and SSE loss is used in (b)(d) on|
 |the right. (a) 𝜎 = 0.05. (b) 𝜎 = 0.05. (c) 𝜎 = 0.1.  |
@@ -167,7 +180,7 @@ DEPINN: Uncertainty Analysis
 +-----------------------------------------------------+
 ||2D_cylinder_noise|                                  |
 +-----------------------------------------------------+
-|finite cylindrical reactor: prediction 𝑢 from        |
+|Finite cylindrical reactor: prediction 𝑢 from        |
 |different prior data noise scales. Interval loss     |
 |is used in (a)(c) on the left, and SSE loss is used  |
 |in (b)(d) on the right. (a) 𝜎 = 0.05. (b) 𝜎 = 0.05.  |
@@ -197,7 +210,7 @@ Since we attain :math:`\Phi_k` directly through the neural network instead of so
 
 .. math::
       Loss_{gipmnn} = \sum_{i=1}^N \lvert \mathcal{L} \Phi_k(\boldsymbol{x}_i) - \lambda_{k-1} \mathcal{Q} \Phi_{k-1}(\boldsymbol{x}_i) \rvert ^2
-      
+
 When the neural network gets convergence, we obtain the smallest eigenvalue and the associated eigenfunction expressed by the neural network.
 
 PC-GIPMNN: Physics-Constrained GIPMNN
@@ -213,6 +226,17 @@ PC-GIPMNN: Physics-Constrained GIPMNN
 |which denote the eigenfunctions in different        |
 |sub-domains.                                        |
 +----------------------------------------------------+
+
+.. |IAEA_PG| image:: ./_static/results/IAEA_PG.png
+
++--------------------------------------------------------------------------------------------------------+
+||IAEA_PG|                                                                                               |
++--------------------------------------------------------------------------------------------------------+
+|The first column shows the heatmap of the eigenfunction of FEM (the first column) and the other columns | 
+|show the heatmaps of the relative error of GIPMNN (the second column), PC-GIPMNN (the third column) and |
+|DRM (the fourth column) for the 2D IAEA benchmark problem. Due to enforcing the interface conditions,   |
+|PC-GIPMNN outperforms GIPMNN and DRM, as shown in the third column.                                     |
++--------------------------------------------------------------------------------------------------------+
 
 
 Publications
@@ -232,6 +256,10 @@ GIPMNN and PC-GIPMNN
 ----
 #. Qihong Yang, Yu Yang, Yangtao Deng, Qiaolin He, Helin Gong, Shiquan Zhang, `A Physics-Constrained Neural Network for Solving Discontinuous Interface K-eigenvalue Problem with Application to Reactor Physics <https://arxiv.org/abs/2209.11134>`_, preprint, 2023
 
+
+Cited by
+====================================
+#. Kim G, Heo G. `Solving partial differential equation for atmospheric dispersion of radioactive material using physics-informed neural network <https://www.sciencedirect.com/science/article/pii/S1738573323001195>`_. Nuclear Engineering and Technology, 2023, 55(6): 2305-2314.
 
 .. .. |SCUMath| image:: ./_static/scu/scu_math.jpg
 ..                   :width: 454
