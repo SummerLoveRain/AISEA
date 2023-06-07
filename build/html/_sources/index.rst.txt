@@ -193,11 +193,12 @@ We use the neural network :math:`\mathcal{N}^{\theta}` to represent the approxim
       &\mathcal{L} \Phi_{k} = \lambda_{k-1} \mathcal{Q} \Phi_{k-1}, \\
       &\lambda_k = \frac{<\mathcal{L}\Phi_{k}, \Phi_{k}>}{<\mathcal{Q}\Phi_{k}, \Phi_{k}>}
 
-Since we attain :math:`\Phi_k` directly through the neural network instead of solving the equation :math:`\mathcal{L} \Phi_{k} = \lambda_{k-1} \mathcal{Q} \Phi_{k-1}`, we define the loss function :math:`Loss_{gipmnn}` in the following Equation to propel the neural network to learn :math:`\Phi_k`. When the neural network gets convergence, we obtain the smallest eigenvalue and the associated eigenfunction expressed by the neural network.
+Since we attain :math:`\Phi_k` directly through the neural network instead of solving the equation :math:`\mathcal{L} \Phi_{k} = \lambda_{k-1} \mathcal{Q} \Phi_{k-1}`, we define the loss function :math:`Loss_{gipmnn}` in the following Equation to propel the neural network to learn :math:`\Phi_k`.
 
 .. math::
       Loss_{gipmnn} = \sum_{i=1}^N \lvert \mathcal{L} \Phi_k(\boldsymbol{x}_i) - \lambda_{k-1} \mathcal{Q} \Phi_{k-1}(\boldsymbol{x}_i) \rvert ^2
-
+      
+When the neural network gets convergence, we obtain the smallest eigenvalue and the associated eigenfunction expressed by the neural network.
 
 PC-GIPMNN: Physics-Constrained GIPMNN
 ----
