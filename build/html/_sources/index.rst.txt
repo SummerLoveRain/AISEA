@@ -266,7 +266,7 @@ DEPINN
 
 PMNN and IPMNN
 ----
-#. Qihong Yang, Yangtao Deng, Yu Yang, Qiaolin He, Shiquan Zhang, `Neural Networks Based on Power Method and Inverse Power Method for Solving Linear Eigenvalue Problems <https://arxiv.org/abs/2209.11134>`_, *arXiv preprint arXiv:2209.11134*, 2022.
+#. Qihong Yang, Yangtao Deng, Yu Yang, Qiaolin He, Shiquan Zhang, `Neural Networks Based on Power Method and Inverse Power Method for Solving Linear Eigenvalue Problems <https://www.sciencedirect.com/science/article/abs/pii/S0898122123003085?via%3Dihub>`_, Computers & Mathematics with Applications, Volume 147, 1 October 2023, Pages 14-24.
 
 GIPMNN and PC-GIPMNN
 ----
