@@ -261,8 +261,9 @@ Publications
 DEPINN
 ----
 
-#. Yu Yang, Helin Gong, Shiquan Zhang, Qihong Yang, Zhang Chen, Qiaolin He, Qing Li, `A data-enabled physics-informed neural network with comprehensive numerical study on solving neutron diffusion eigenvalue problems <https://www.sciencedirect.com/science/article/abs/pii/S0306454922006867?via%3Dihub>`_, *Annals of Nuclear Energy*. 2023, 183:109656
-#. Yu Yang, Helin Gong, Qiaolin He, Qihong Yang, Yangtao Deng and Shiquan Zhang, `On the uncertainty analysis of the data-enabled physics-informed neural network for solving neutron diffusion eigenvalue problem <https://arxiv.org/abs/2303.08455>`_, *arXiv preprint arXiv:2302.04107*, 2023.
+#. Yu Yang, Helin Gong, Shiquan Zhang, Qihong Yang, Zhang Chen, Qiaolin He, Qing Li, `A data-enabled physics-informed neural network with comprehensive numerical study on solving neutron diffusion eigenvalue problems <https://www.sciencedirect.com/science/article/abs/pii/S0306454922006867?via%3Dihub>`_, *Annals of Nuclear Energy*. 2023, 183:  109656,
+
+#. Yu Yang, Helin Gong, Qiaolin He, Qihong Yang, Yangtao Deng and Shiquan Zhang, `On the uncertainty analysis of the data-enabled physics-informed neural network for solving neutron diffusion eigenvalue problem <https://doi.org/10.1080/00295639.2023.2236840>`_, *Nuclear Science and Engineering*, 2023.
 
 PMNN and IPMNN
 ----
