@@ -124,20 +124,27 @@ Recently, they have successfully completed the development of a module for 3D gr
 +------------+------------+---------------+
 
 
-Meetings
+Presentations
 ====================================
 
-.. |Meeting1| image:: ./_static/meetings/1.jpg
+.. |Presentation1| image:: ./_static/presentations/1.jpg
+                  :width: 257
+.. |Presentation2| image:: ./_static/presentations/2.jpg
+                  :width: 257
+.. |Presentation3| image:: ./_static/presentations/3.jpg
+                  :width: 257
 
-+----------------------------------------------------+
-||Meeting1|                                          |
-+----------------------------------------------------+
-|Our team was honored to participate in the 19th     |
-|Conference on Numerical Computing and Particle      |
-|Transport in Reactors and Reactor Physics 2023      |
-|(CORPHY2022), which was held in Shanghai, China,    |
-|and made a presentation at the conference.          |
-+----------------------------------------------------+
++----------------+----------------+-------------------+
+||Presentation1| ||Presentation2| ||Presentation3|    |
++----------------+----------------+-------------------+
+|Qihong Yang, Shiquan Zhang*, Helin Gong*, Yu Yang,   |
+|Yangtao Deng, Qiaolin He, Research on iterative      |
+|algorithm for eigenvalue problem of neutron diffusion|
+|equation solved by neural network,                   |
+|19th Conference on Numerical Computing and Particle  |
+|Transport in Reactors and Reactor Physics 2023       |
+|(CORPHY2022), Shanghai, China.                       |
++-----------------------------------------------------+
 
 
 Research Awards
