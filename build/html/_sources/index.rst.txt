@@ -295,7 +295,7 @@ PMNN and IPMNN
 
 GIPMNN and PC-GIPMNN
 ----
-#. Qihong Yang, Yu Yang, Yangtao Deng, Qiaolin He, Helin Gong, Shiquan Zhang, `A Physics-Constrained Neural Network for Solving Discontinuous Interface K-eigenvalue Problem with Application to Reactor Physics <https://arxiv.org/abs/2209.11134>`_, preprint, 2023
+#. Qihong Yang, Yu Yang, Yangtao Deng, Qiaolin He, Helin Gong, Shiquan Zhang, `A Physics-Constrained Neural Network for Solving Discontinuous Interface K-eigenvalue Problem with Application to Reactor Physics <https://arxiv.org/abs/2209.11134>`_, Nuclear Science and Techniques, accepted for publishing, 2023.
 
 
 Cited by
