@@ -27,6 +27,8 @@ Team Members
                     :width: 206
 .. |HelinGong| image:: ./_static/prof/HelinGong.png
                     :width: 206
+.. |HongjunJi| image:: ./_static/prof/HongjunJi.png
+                    :width: 206
 
 .. .. |YuYang| image:: ./_static/stu/YuYang.png
 ..                     :width: 167
@@ -60,13 +62,14 @@ Team Members
 .. _Prof. Qiaolin He: https://math.scu.edu.cn/info/1013/3065.htm
 .. _A.P. Shiquan Zhang: https://math.scu.edu.cn/info/1013/3056.htm
 .. _A.P. Helin Gong: https://speit.sjtu.edu.cn/faculty/team-152.html
+.. _A.P. Hongjun Ji: https://speit.sjtu.edu.cn/faculty/team-39.html
 
 
-+--------------------+---------------------+--------------------+
-|    |QiaolinHe|     |  |ShiquanZhang|     |     |HelinGong|    |
-+--------------------+---------------------+--------------------+
-| `Prof. Qiaolin He`_|`A.P. Shiquan Zhang`_| `A.P. Helin Gong`_ |
-+--------------------+---------------------+--------------------+
++--------------------+---------------------+--------------------+--------------------+
+|    |QiaolinHe|     |  |ShiquanZhang|     |     |HelinGong|    |     |HongjunJi|    |
++--------------------+---------------------+--------------------+--------------------+
+| `Prof. Qiaolin He`_|`A.P. Shiquan Zhang`_| `A.P. Helin Gong`_ | `A.P. Hongjun Ji`_ |
++--------------------+---------------------+--------------------+--------------------+
 
 
 .. _PhD. Yu Yang: https://github.com/YangYuSCU
