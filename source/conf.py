@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'SciNEA'
+project = 'AISEA'
 copyright = '2023, yangqh'
 author = 'yangqh'
-release = 'v0.0.1'
+release = 'v1.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
