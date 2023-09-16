@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SciNEA's Team!
+Welcome to AISEA's Team!
 ====================================
 
-**SciNEA: Scientific Computing for Nuclear Engineering Applications**
+**AISEA: AI for Science with Engineering Applications**
 
 Team Members
 ====================================
@@ -52,6 +52,12 @@ Team Members
 .. |XufanChen| image:: ./_static/stu/XufanChen.png
                     :width: 167
 
+.. |LizhanHong| image:: ./_static/stu/LizhanHong.jpg
+                    :width: 167
+
+.. |HanLi| image:: ./_static/stu/HanLi.jpg
+                    :width: 167
+
 
 .. =================      ==================  ================
 .. |QiaolinHe|            |ShiquanZhang|      |HelinGong|
@@ -80,6 +86,12 @@ Team Members
 +-------------------+---------------------+--------------------+--------------------+
 |`PhD. Yu Yang`_    | `PhD. Qihong Yang`_ |   M.S. Shupei Yu   |   M.S. Xufan Chen  |
 +-------------------+---------------------+--------------------+--------------------+
+
++-------------------+---------------------+
+|  |LizhanHong|     |     |HanLi|         |
++-------------------+---------------------+
+| B.S. Lizhan Hong  |      M.S. Han Li    |
++-------------------+---------------------+
 
 Research Fields
 ====================================
@@ -136,6 +148,45 @@ Presentations
                   :width: 257
 .. |Presentation3| image:: ./_static/presentations/3.jpg
                   :width: 257
+                  
+.. |Presentation4| image:: ./_static/presentations/4.jpg
+                  :width: 257
+.. |Presentation5| image:: ./_static/presentations/5.jpg
+                  :width: 257
+.. |Presentation6| image:: ./_static/presentations/6.jpg
+                  :width: 257
+
+                  
+.. |Presentation7| image:: ./_static/presentations/7.jpg
+                  :width: 257
+.. |Presentation8| image:: ./_static/presentations/8.jpg
+                  :width: 257
+.. |Presentation9| image:: ./_static/presentations/9.jpg
+                  :width: 257
+
+
++----------------+----------------+-------------------+
+||Presentation4| ||Presentation5| ||Presentation6|    |
++----------------+----------------+-------------------+
+|Helin Gong, Qiaolin He, Shiquan Zhang, Yu Yang,      |
+|Qihong Yang, Shupei Yu, Deep neural network          |
+|techniques for solving eigenvalue equations for      |
+|steady-state neutron diffusion problems,             |
+|**2023 Annual Meeting of the Key Laboratory of       |
+|Nuclear Reactor System Design Technology**,          |
+|Chengdu, China.                                      |
++-----------------------------------------------------+
+
++----------------+----------------+-------------------+
+||Presentation7| ||Presentation8| ||Presentation9|    |
++----------------+----------------+-------------------+
+|Helin Gong, Qiaolin He, Shiquan Zhang, Yu Yang,      |
+|Qihong Yang, Shupei Yu, Deep neural network          |
+|techniques for solving eigenvalue equations for      |
+|steady-state neutron diffusion problems,             |
+|**Workshop on Machine Learning in Reactor Physics**, |
+|SPEIT, Shanghai, China.                              |
++-----------------------------------------------------+
 
 +----------------+----------------+-------------------+
 ||Presentation1| ||Presentation2| ||Presentation3|    |
@@ -144,9 +195,9 @@ Presentations
 |Yangtao Deng, Qiaolin He, Research on iterative      |
 |algorithm for eigenvalue problem of neutron diffusion|
 |equation solved by neural network,                   |
-|19th Conference on Numerical Computing and Particle  |
-|Transport in Reactors and Reactor Physics 2023       |
-|(CORPHY2022), Shanghai, China.                       |
+|**19th Conference on Numerical Computing and         |
+|Particle Transport in Reactors and Reactor Physics   |
+|2023 (CORPHY2022)**, Shanghai, China.                |
 +-----------------------------------------------------+
 
 
