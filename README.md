@@ -1,3 +1,3 @@
-# SciNEA
-SciNEA: Scientific Computing for Nuclear Engineering Applications
+# AISEA
+AISEA: AI for Science with Engineering Applications
 
