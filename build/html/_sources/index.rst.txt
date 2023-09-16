@@ -174,7 +174,17 @@ Presentations
 |steady-state neutron diffusion problems,             |
 |**2023 Annual Meeting of the Key Laboratory of       |
 |Nuclear Reactor System Design Technology**,          |
-|Chengdu, China.                                      |
+|March 1-2, 2023, Chengdu, China.                     |
++-----------------------------------------------------+
+
++----------------+----------------+-------------------+
+|Qihong Yang, Yangtao Deng, Yu Yang, Qiaolin He,      |
+|Shiquan Zhang, Neural Networks Based on Power Method |
+|and Inverse Power Method for Solving Linear          |
+|Eigenvalue  Problems,                                |
+|**13th Annual Conference on Computational Mathematics|
+|of the Chinese Mathematical Society**,               |
+|May 13-14, 2023, Nanjing, China.                     |
 +-----------------------------------------------------+
 
 +----------------+----------------+-------------------+
@@ -185,7 +195,17 @@ Presentations
 |techniques for solving eigenvalue equations for      |
 |steady-state neutron diffusion problems,             |
 |**Workshop on Machine Learning in Reactor Physics**, |
-|SPEIT, Shanghai, China.                              |
+|May 25-28, 2023, SPEIT, Shanghai, China.             |
++-----------------------------------------------------+
+
++----------------+----------------+-------------------+
+|Qihong Yang, Yangtao Deng, Yu Yang, Qiaolin He,      |
+|Shiquan Zhang, Neural Networks Based on Power Method |
+|and Inverse Power Method for Solving Linear          |
+|Eigenvalue  Problems,                                |
+|**Seminar on computational mathematics**,            |
+|July 15-17, 2023, Zhejiang University of Technology, |
+|Hangzhou, China.                                     |
 +-----------------------------------------------------+
 
 +----------------+----------------+-------------------+
@@ -197,18 +217,28 @@ Presentations
 |equation solved by neural network,                   |
 |**19th Conference on Numerical Computing and         |
 |Particle Transport in Reactors and Reactor Physics   |
-|2023 (CORPHY2022)**, Shanghai, China.                |
+|2023 (CORPHY2022)**, August 23-25, 2023, Shanghai,   |
+|China.                                               |
 +-----------------------------------------------------+
 
++----------------+----------------+-------------------+
+|Qihong Yang, Yangtao Deng, Yu Yang, Qiaolin He,      |
+|Shiquan Zhang, Neural Networks Based on Power Method |
+|and Inverse Power Method for Solving Linear          |
+|Eigenvalue  Problems,                                |
+|**Seminar on Differential equations and numerical    |
+|computation**,                                       |
+|August 27-29, 2023, Nanchong, China.                 |
++-----------------------------------------------------+
 
-Research Awards
-====================================
+.. Research Awards
+.. ====================================
 
-1. Won **the Second Class of Progress of Science and Technology Prize of Sichuan Province (First author)**. Research and development of key technologies for online monitoring system of HPR1000 reactor core 2021
+.. 1. Won **the Second Class of Progress of Science and Technology Prize of Sichuan Province (First author)**. Research and development of key technologies for online monitoring system of HPR1000 reactor core 2021
 
-2. Won **the Second Class of Progress of Science and Technology Prize of China Nuclear Energy Association (Ninth author)**. Independent design research and equipment development of HPR1000 reactor core measurement system 2021
+.. 2. Won **the Second Class of Progress of Science and Technology Prize of China Nuclear Energy Association (Ninth author)**. Independent design research and equipment development of HPR1000 reactor core measurement system 2021
 
-3. Won **the China patent awards of excellence (Fourth author)**. A realization method of reactor LPD and DNBR online protection and monitoring 2021
+.. 3. Won **the China patent awards of excellence (Fourth author)**. A realization method of reactor LPD and DNBR online protection and monitoring 2021
 
 
 Some Problems and Results
