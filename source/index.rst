@@ -25,10 +25,12 @@ Team Members
                     :width: 206
 .. |ShiquanZhang| image:: ./_static/prof/ShiquanZhang.png
                     :width: 206
+.. |JialiangLu| image:: ./_static/prof/JialiangLu.jpg
+                    :width: 208
 .. |HelinGong| image:: ./_static/prof/HelinGong.png
-                    :width: 206
+                    :width: 208
 .. |HongjunJi| image:: ./_static/prof/HongjunJi.png
-                    :width: 206
+                    :width: 204
 
 .. .. |YuYang| image:: ./_static/stu/YuYang.png
 ..                     :width: 167
@@ -67,31 +69,41 @@ Team Members
 
 .. _Prof. Qiaolin He: https://math.scu.edu.cn/info/1013/3065.htm
 .. _A.P. Shiquan Zhang: https://math.scu.edu.cn/info/1013/3056.htm
+.. _A.P. Jialiang Lu: https://speit.sjtu.edu.cn/faculty/team-100.html
 .. _A.P. Helin Gong: https://speit.sjtu.edu.cn/faculty/team-152.html
 .. _A.P. Hongjun Ji: https://speit.sjtu.edu.cn/faculty/team-39.html
 
 
-+--------------------+---------------------+--------------------+--------------------+
-|    |QiaolinHe|     |  |ShiquanZhang|     |     |HelinGong|    |     |HongjunJi|    |
-+--------------------+---------------------+--------------------+--------------------+
-| `Prof. Qiaolin He`_|`A.P. Shiquan Zhang`_| `A.P. Helin Gong`_ | `A.P. Hongjun Ji`_ |
-+--------------------+---------------------+--------------------+--------------------+
++--------------------+---------------------+--------------------+--------------------+--------------------+
+|    |QiaolinHe|     |  |ShiquanZhang|     |     |JialiangLu|   |     |HelinGong|    |     |HongjunJi|    |
++--------------------+---------------------+--------------------+--------------------+--------------------+
+| `Prof. Qiaolin He`_|`A.P. Shiquan Zhang`_|`A.P. Jialiang Lu`_ | `A.P. Helin Gong`_ | `A.P. Hongjun Ji`_ |
++--------------------+---------------------+--------------------+--------------------+--------------------+
 
 
 .. _PhD. Yu Yang: https://github.com/YangYuSCU
 .. _PhD. Qihong Yang: https://github.com/SummerLoveRain
 
-+-------------------+---------------------+--------------------+--------------------+
-|     |YuYang|      |     |QihongYang|    |    |ShupeiYu|      |     |XufanChen|    |
-+-------------------+---------------------+--------------------+--------------------+
-|`PhD. Yu Yang`_    | `PhD. Qihong Yang`_ |   M.S. Shupei Yu   |   M.S. Xufan Chen  |
-+-------------------+---------------------+--------------------+--------------------+
+.. +-------------------+---------------------+--------------------+--------------------+
+.. |     |YuYang|      |     |QihongYang|    |    |ShupeiYu|      |     |XufanChen|    |
+.. +-------------------+---------------------+--------------------+--------------------+
+.. |`PhD. Yu Yang`_    | `PhD. Qihong Yang`_ |   M.S. Shupei Yu   |   M.S. Xufan Chen  |
+.. +-------------------+---------------------+--------------------+--------------------+
 
-+-------------------+---------------------+
-|  |LizhanHong|     |     |HanLi|         |
-+-------------------+---------------------+
-| B.S. Lizhan Hong  |      M.S. Han Li    |
-+-------------------+---------------------+
+.. +-------------------+---------------------+
+.. |  |LizhanHong|     |     |HanLi|         |
+.. +-------------------+---------------------+
+.. | B.S. Lizhan Hong  |      M.S. Han Li    |
+.. +-------------------+---------------------+
+
+
+
++-------------------+---------------------+--------------------+--------------------+-------------------+---------------------+
+|     |YuYang|      |     |QihongYang|    |    |ShupeiYu|      |     |XufanChen|    |  |LizhanHong|     |     |HanLi|         |
++-------------------+---------------------+--------------------+--------------------+-------------------+---------------------+
+|`PhD. Yu Yang`_    | `PhD. Qihong Yang`_ |   M.S. Shupei Yu   |   M.S. Xufan Chen  | B.S. Lizhan Hong  |      M.S. Han Li    |
++-------------------+---------------------+--------------------+--------------------+-------------------+---------------------+
+
 
 Research Fields
 ====================================
