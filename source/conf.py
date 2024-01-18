@@ -31,4 +31,4 @@ language = 'en'
 # pip install piccolo-theme
 html_theme = 'piccolo_theme'
 
-html_static_path = ['_static']
+# html_static_path = ['_static']
