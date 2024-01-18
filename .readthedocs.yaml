@@ -18,7 +18,7 @@ build:
  
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:
-   configuration: aisea/source/conf.py
+   configuration: source/conf.py
  
 # Optionally build your docs in additional formats such as PDF and ePub
 # formats:
@@ -30,4 +30,4 @@ sphinx:
 # See https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html
 python:
   install:
-  - requirements: aisea/requirements.txt
+  - requirements: requirements.txt
