@@ -397,6 +397,8 @@ GIPMNN and PC-GIPMNN
 Cited by
 ====================================
 #. Kim G, Heo G. `Solving partial differential equation for atmospheric dispersion of radioactive material using physics-informed neural network <https://www.sciencedirect.com/science/article/pii/S1738573323001195>`_. Nuclear Engineering and Technology, 2023, 55(6): 2305-2314.
+#. Zhou H, Cheng S, `Arcucci R. Multi-fidelity physics constrained neural networks for dynamical systems <https://www.sciencedirect.com/science/article/pii/S0045782524000148>`_. Computer Methods in Applied Mechanics and Engineering. 2024 Feb 15;420:116758.
+#. Hu J, Zhu K, Cheng S, Kovalchuk NM, Soulsby A, Simmons MJ, Matar OK, Arcucci R. `Explainable AI models for predicting drop coalescence in microfluidics device <https://www.sciencedirect.com/science/article/pii/S1385894723071978>`_. Chemical Engineering Journal. 2024 Jan 2:148465.
 
 .. .. |SCUMath| image:: ./_static/scu/scu_math.jpg
 ..                   :width: 454
