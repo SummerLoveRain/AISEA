@@ -47,10 +47,13 @@ Team Members
 
 .. |YuYang| image:: ./_static/stu/YuYang.png
                   :width: 167
+
 .. |QihongYang| image:: ./_static/stu/QihongYang.png
                     :width: 167
+
 .. |ShupeiYu| image:: ./_static/stu/ShupeiYu.png
                     :width: 167
+
 .. |XufanChen| image:: ./_static/stu/XufanChen.png
                     :width: 167
 
@@ -58,6 +61,12 @@ Team Members
                     :width: 167
 
 .. |HanLi| image:: ./_static/stu/HanLi.jpg
+                    :width: 167
+
+.. |YuyanXu| image:: ./_static/stu/YuyanXu.png
+                    :width: 167
+
+.. |ZhijieSu| image:: ./_static/stu/ZhijieSu.jpg
                     :width: 167
 
 
@@ -84,25 +93,25 @@ Team Members
 .. _PhD. Yu Yang: https://github.com/YangYuSCU
 .. _PhD. Qihong Yang: https://github.com/SummerLoveRain
 
-.. +-------------------+---------------------+--------------------+--------------------+
-.. |     |YuYang|      |     |QihongYang|    |    |ShupeiYu|      |     |XufanChen|    |
-.. +-------------------+---------------------+--------------------+--------------------+
-.. |`PhD. Yu Yang`_    | `PhD. Qihong Yang`_ |   M.S. Shupei Yu   |   M.S. Xufan Chen  |
-.. +-------------------+---------------------+--------------------+--------------------+
++-------------------+---------------------+--------------------+--------------------+
+|     |YuYang|      |     |QihongYang|    |    |YuyanXu|       |     |ZhijieSu|     |
++-------------------+---------------------+--------------------+--------------------+
+|`PhD. Yu Yang`_    | `PhD. Qihong Yang`_ |   PhD. YuyanXu     |   M.S. ZhijieSu    |
++-------------------+---------------------+--------------------+--------------------+
 
-.. +-------------------+---------------------+
-.. |  |LizhanHong|     |     |HanLi|         |
-.. +-------------------+---------------------+
-.. | B.S. Lizhan Hong  |      M.S. Han Li    |
-.. +-------------------+---------------------+
++-------------------+---------------------+--------------------+--------------------+
+|  |LizhanHong|     |     |HanLi|         |    |ShupeiYu|      |     |XufanChen|    |
++-------------------+---------------------+--------------------+--------------------+
+| B.S. Lizhan Hong  |      M.S. Han Li    |   M.S. Shupei Yu   |   M.S. Xufan Chen  |
++-------------------+---------------------+--------------------+--------------------+
 
 
 
-+-------------------+---------------------+--------------------+--------------------+-------------------+---------------------+
-|     |YuYang|      |     |QihongYang|    |    |ShupeiYu|      |     |XufanChen|    |  |LizhanHong|     |     |HanLi|         |
-+-------------------+---------------------+--------------------+--------------------+-------------------+---------------------+
-|`PhD. Yu Yang`_    | `PhD. Qihong Yang`_ |   M.S. Shupei Yu   |   M.S. Xufan Chen  | B.S. Lizhan Hong  |      M.S. Han Li    |
-+-------------------+---------------------+--------------------+--------------------+-------------------+---------------------+
+.. +-------------------+---------------------+--------------------+--------------------+-------------------+---------------------+
+.. |     |YuYang|      |     |QihongYang|    |    |ShupeiYu|      |     |XufanChen|    |  |LizhanHong|     |     |HanLi|         |
+.. +-------------------+---------------------+--------------------+--------------------+-------------------+---------------------+
+.. |`PhD. Yu Yang`_    | `PhD. Qihong Yang`_ |   M.S. Shupei Yu   |   M.S. Xufan Chen  | B.S. Lizhan Hong  |      M.S. Han Li    |
+.. +-------------------+---------------------+--------------------+--------------------+-------------------+---------------------+
 
 
 Research Fields
@@ -233,14 +242,44 @@ Presentations
 |China.                                               |
 +-----------------------------------------------------+
 
+
+.. |Presentation10| image:: ./_static/presentations/10.jpg
+                  :width: 257
+.. |Presentation11| image:: ./_static/presentations/11.jpg
+                  :width: 257
+.. |Presentation12| image:: ./_static/presentations/12.jpg
+                  :width: 257
+
 +----------------+----------------+-------------------+
-|Qihong Yang, Yangtao Deng, Yu Yang, Qiaolin He,      |
-|Shiquan Zhang, Neural Networks Based on Power Method |
-|and Inverse Power Method for Solving Linear          |
-|Eigenvalue  Problems,                                |
-|**Seminar on Differential equations and numerical    |
-|computation**,                                       |
-|August 27-29, 2023, Nanchong, China.                 |
+||Presentation10|||Presentation11|||Presentation12|   |
++----------------+----------------+-------------------+
+|Shupei Yu, Zhaoyuan Liu, Qiaolin He, Shiquan Zhang,  |
+|Yu Yang, Qing Li, Helin Gong, Deep Neural Network    | 
+|Methods for Solving Multidimensional Multigroup      |
+|Neutron Diffusion Equations,                         |
+|**2024 Annual Academic Conference of the National    |
+|Key Laboratory for Nuclear Reactor Technology**,     |
+|Chengdu, Sichuan, 2024.                              |
++-----------------------------------------------------+
+
++----------------+----------------+-------------------+
+|Qihong Yang, Zhenwei Liu, Shiquan Zhang, Qiaolin He, |
+|Yu Yang, Qing Li, Helin Gong, Deep Neural Network    | 
+|Methods  and Software for Solving the Eigenvalue     |
+|Problems of Neutron Diffusion Equations,             |
+|**2024 Annual Academic Conference of the National    |
+|Key Laboratory for Nuclear Reactor Technology**,     |
+|Chengdu, Sichuan, 2024.                              |
++-----------------------------------------------------+
+
++----------------+----------------+-------------------+
+|Yu Yang, Zhenwei Liu, Qiaolin He, Shiquan Zhang,     |
+|Qihong Yang, Qing Li, Helin Gong, Deep Neural Network| 
+|with Model Fusion: Solving the Neutron Diffusion     |
+|Equation,                                            |
+|**2024 Annual Academic Conference of the National    |
+|Key Laboratory for Nuclear Reactor Technology**,     |
+|Chengdu, Sichuan, 2024.                              |
 +-----------------------------------------------------+
 
 .. Research Awards
@@ -375,6 +414,27 @@ PC-GIPMNN: Physics-Constrained GIPMNN
 +--------------------------------------------------------------------------------------------------------+
 
 
+AISEA: Neutron Diffusion Eigenvalue Problem-Solving Software Packages
+====================================
+.. |AISEA_SOFT| image:: ./_static/aisea_soft/compare.png
+.. |AISEA_ARCH| image:: ./_static/aisea_soft/arch.png
+
++-------------------------+
+||AISEA_ARCH|             |
++-------------------------+
+|The architecture of AISEA|
++-------------------------+
+
+In this section, we introduce the AISEA (neutron diffusion eigenvalue problem-solving software packages), which is based on the aforementioned algorithms. The advantage of the AISEA software package lies in the fact that it is specifically developed for neutron diffusion problems in nuclear reactor physics, making it more suitable for solving problems in specific scenarios compared to general deep learning algorithms. Moreover, it contains a rich set of solution modules that can selectively choose the appropriate solver for different physical conditions (see Figure 2). The AISEA software package is easy to use; we only need to provide sampling points and related coefficients for the physical problem, characterize the computational region corresponding to our solution problem, and select the appropriate solution module. Our software package has been tested on a server equipped with Intel Xeon Platinum 8358 processors and NVIDIA A100, 80GB graphics cards, and is written in the Python language.
+
++----------------------------+
+||AISEA_SOFT|                |
++----------------------------+
+|The various modules of AISEA|
++----------------------------+
+
+The various modules within the AISEA software package have now been validated with numerical results on selected test cases. The data-driven modules have been numerically verified for one-dimensional, two-dimensional, single-group, and multi-group problems, while the model-driven modules have been applied to multi-group problems of up to three dimensions.
+
 Publications
 ====================================
 
@@ -391,7 +451,7 @@ PMNN and IPMNN
 
 GIPMNN and PC-GIPMNN
 ----
-#. Qihong Yang, Yu Yang, Yangtao Deng, Qiaolin He, Helin Gong, Shiquan Zhang, `A Physics-Constrained Neural Network for Solving Discontinuous Interface K-eigenvalue Problem with Application to Reactor Physics <https://arxiv.org/abs/2209.11134>`_, Nuclear Science and Techniques, accepted for publishing, 2023.
+#. Qihong Yang, Yu Yang, Yangtao Deng, Qiaolin He, Helin Gong, Shiquan Zhang, `Physics-constrained neural network for solving discontinuous interface K-eigenvalue problem with application to reactor physics <https://link.springer.com/article/10.1007/s41365-023-01313-0>`_, Nuclear Science and Techniques, Volume 34, article number 161, 2023.
 
 
 Cited by
@@ -399,6 +459,9 @@ Cited by
 #. Kim G, Heo G. `Solving partial differential equation for atmospheric dispersion of radioactive material using physics-informed neural network <https://www.sciencedirect.com/science/article/pii/S1738573323001195>`_. Nuclear Engineering and Technology, 2023, 55(6): 2305-2314.
 #. Zhou H, Cheng S, `Arcucci R. Multi-fidelity physics constrained neural networks for dynamical systems <https://www.sciencedirect.com/science/article/pii/S0045782524000148>`_. Computer Methods in Applied Mechanics and Engineering. 2024 Feb 15;420:116758.
 #. Hu J, Zhu K, Cheng S, Kovalchuk NM, Soulsby A, Simmons MJ, Matar OK, Arcucci R. `Explainable AI models for predicting drop coalescence in microfluidics device <https://www.sciencedirect.com/science/article/pii/S1385894723071978>`_. Chemical Engineering Journal. 2024 Jan 2:148465.
+#. Wang HY, Zhou H, Cheng S. `Dynamical system prediction from sparse observations using deep neural networks with Voronoi tessellation and physics constraint <https://www.tandfonline.com/doi/citedby/10.1080/00295639.2023.2236840?scroll=top&needAccess=true>`_. Computer Methods in Applied Mechanics and Engineering 432, pages 117339.
+
+
 
 .. .. |SCUMath| image:: ./_static/scu/scu_math.jpg
 ..                   :width: 454
