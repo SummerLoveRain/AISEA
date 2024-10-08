@@ -11,15 +11,6 @@ Welcome to AISEA's Team!
 Team Members
 ====================================
 
-.. .. |QiaolinHe| image:: ./_static/prof/QiaolinHe.png
-..                     :width: 206
-..                     :height: 289
-.. .. |ShiquanZhang| image:: ./_static/prof/ShiquanZhang.png
-..                     :width: 206
-..                     :height: 289
-.. .. |HelinGong| image:: ./_static/prof/HelinGong.png
-..                     :width: 206
-..                     :height: 289
 
 .. |QiaolinHe| image:: ./_static/prof/QiaolinHe.png
                     :width: 206
@@ -29,21 +20,12 @@ Team Members
                     :width: 208
 .. |HelinGong| image:: ./_static/prof/HelinGong.png
                     :width: 208
-.. |HongjunJi| image:: ./_static/prof/HongjunJi.png
+.. |HongjunJi| image:: ./_static/prof/HongjunJi.jpg
                     :width: 204
+.. |SijiaKong| image:: ./_static/prof/SijiaKong.png
+                    :width: 208
 
-.. .. |YuYang| image:: ./_static/stu/YuYang.png
-..                     :width: 167
-..                     :height: 213
-.. .. |QihongYang| image:: ./_static/stu/QihongYang.png
-..                     :width: 167
-..                     :height: 213
-.. .. |ShupeiYu| image:: ./_static/stu/ShupeiYu.png
-..                     :width: 167
-..                     :height: 213
-.. .. |XufanChen| image:: ./_static/stu/XufanChen.png
-..                     :width: 167
-..                     :height: 213
+
 
 .. |YuYang| image:: ./_static/stu/YuYang.png
                   :width: 167
@@ -64,10 +46,10 @@ Team Members
                     :width: 167
 
 .. |YuyanXu| image:: ./_static/stu/YuyanXu.png
-                    :width: 167
+                    :width: 150
 
 .. |ZhijieSu| image:: ./_static/stu/ZhijieSu.jpg
-                    :width: 167
+                    :width: 175
 
 
 .. =================      ==================  ================
@@ -76,18 +58,27 @@ Team Members
 .. Prof. Qiaolin He       A.P. Shiquan Zhang  A.P. Helin Gong
 .. =================      ==================  ================
 
-.. _Prof. Qiaolin He: https://math.scu.edu.cn/info/1013/3065.htm
-.. _A.P. Shiquan Zhang: https://math.scu.edu.cn/info/1013/3056.htm
-.. _A.P. Jialiang Lu: https://speit.sjtu.edu.cn/faculty/team-100.html
-.. _A.P. Helin Gong: https://speit.sjtu.edu.cn/faculty/team-152.html
-.. _A.P. Hongjun Ji: https://speit.sjtu.edu.cn/faculty/team-39.html
+.. _Prof. Qiaolin He: https://math.scu.edu.cn/info/1252/2473.htm
+.. _A.P. Shiquan Zhang: https://math.scu.edu.cn/info/1252/2525.htm
+.. _A.P. Jialiang Lu: https://speit.sjtu.edu.cn/faculty/3
+.. _A.P. Helin Gong: https://speit.sjtu.edu.cn/faculty/23
+.. _A.P. Hongjun Ji: https://speit.sjtu.edu.cn/faculty/7
+.. _Tch. Sijia Kong: https://speit.sjtu.edu.cn/faculty/35
 
 
-+--------------------+---------------------+--------------------+--------------------+--------------------+
-|    |QiaolinHe|     |  |ShiquanZhang|     |     |JialiangLu|   |     |HelinGong|    |     |HongjunJi|    |
-+--------------------+---------------------+--------------------+--------------------+--------------------+
-| `Prof. Qiaolin He`_|`A.P. Shiquan Zhang`_|`A.P. Jialiang Lu`_ | `A.P. Helin Gong`_ | `A.P. Hongjun Ji`_ |
-+--------------------+---------------------+--------------------+--------------------+--------------------+
++--------------------+---------------------+--------------------+
+|    |QiaolinHe|     |  |ShiquanZhang|     |     |JialiangLu|   |
++--------------------+---------------------+--------------------+
+| `Prof. Qiaolin He`_|`A.P. Shiquan Zhang`_|`A.P. Jialiang Lu`_ |
++--------------------+---------------------+--------------------+
+
++--------------------+--------------------+--------------------+
++     |HelinGong|    |     |HongjunJi|    |     |SijiaKong|    |
++--------------------+--------------------+--------------------+
++ `A.P. Helin Gong`_ | `A.P. Hongjun Ji`_ | `Tch. Sijia Kong`_ |
++--------------------+--------------------+--------------------+
+
+
 
 
 .. _PhD. Yu Yang: https://github.com/YangYuSCU
@@ -96,7 +87,7 @@ Team Members
 +-------------------+---------------------+--------------------+--------------------+
 |     |YuYang|      |     |QihongYang|    |    |YuyanXu|       |     |ZhijieSu|     |
 +-------------------+---------------------+--------------------+--------------------+
-|`PhD. Yu Yang`_    | `PhD. Qihong Yang`_ |   PhD. YuyanXu     |   M.S. ZhijieSu    |
+|`PhD. Yu Yang`_    | `PhD. Qihong Yang`_ |   PhD. Yuyan Xu    |   M.S. Zhijie Su   |
 +-------------------+---------------------+--------------------+--------------------+
 
 +-------------------+---------------------+--------------------+--------------------+
@@ -105,13 +96,6 @@ Team Members
 | B.S. Lizhan Hong  |      M.S. Han Li    |   M.S. Shupei Yu   |   M.S. Xufan Chen  |
 +-------------------+---------------------+--------------------+--------------------+
 
-
-
-.. +-------------------+---------------------+--------------------+--------------------+-------------------+---------------------+
-.. |     |YuYang|      |     |QihongYang|    |    |ShupeiYu|      |     |XufanChen|    |  |LizhanHong|     |     |HanLi|         |
-.. +-------------------+---------------------+--------------------+--------------------+-------------------+---------------------+
-.. |`PhD. Yu Yang`_    | `PhD. Qihong Yang`_ |   M.S. Shupei Yu   |   M.S. Xufan Chen  | B.S. Lizhan Hong  |      M.S. Han Li    |
-.. +-------------------+---------------------+--------------------+--------------------+-------------------+---------------------+
 
 
 Research Fields
