@@ -440,11 +440,11 @@ MMPDE
 ----
 #. Yu Yang, Qihong Yang, Yangtao Deng, Qiaolin He, `Moving sampling physics-informed neural networks induced by moving mesh PDE <https://www.sciencedirect.com/science/article/abs/pii/S0893608024006300>`_, Neural Networks, Volume 180, December 2024, 106706.
 
-Others
+Digital twins related
 ----
 #. Han Li,Lei Zhang, Helin Gong, `A Comprehensive Deep Learning–Based Approach to Field Reconstruction in Reactor Cores <https://www.tandfonline.com/doi/abs/10.1080/00295639.2024.2403895>`_, Nuclear Science and Engineering, 2024.
 #. Han Li, Jialiang Lu, Hongjun Ji, Lizhan Hong and Helin Gong, `A noise and vibration tolerant resnet for field reconstruction with sparse sensor`_, Communications in Computational Physics, 2023.
-#. Han Li, Helin Gong, Chuanju Xu, `Neural-Network-Augmented Empirical Interpolation Method for Field Reconstruction with Noise and Vibration Tolerance <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4715293>`_, Available at SSRN 4715293.
+#. Han Li, Helin Gong, Chuanju Xu, `Neural-Network-Augmented Empirical Interpolation Method for Field Reconstruction with Noise and Vibration Tolerance <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4715293>`_, accepted by Communications in Computational Physics.
 #. Lizhan Hong, Helin Gong, Hongjun Ji, Jialiang Lu, Han Li and Qing Li, `Optimizing near-carbon-free nuclear energy systems: advances in reactor operation digital twin through hybrid machine learning algorithms for parameter identification and state estimation <https://link.springer.com/article/10.1007/s41365-024-01494-2>`_, Nuclear Science and Techniques, Volume 35, article number 135, 2024.
 
 Cited by
