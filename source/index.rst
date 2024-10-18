@@ -440,7 +440,7 @@ MMPDE
 ----
 #. Yu Yang, Qihong Yang, Yangtao Deng, Qiaolin He, `Moving sampling physics-informed neural networks induced by moving mesh PDE <https://www.sciencedirect.com/science/article/abs/pii/S0893608024006300>`_, Neural Networks, Volume 180, December 2024, 106706.
 
-Others
+Digital twins related
 ----
 #. Han Li,Lei Zhang, Helin Gong, `A Comprehensive Deep Learning–Based Approach to Field Reconstruction in Reactor Cores <https://www.tandfonline.com/doi/abs/10.1080/00295639.2024.2403895>`_, Nuclear Science and Engineering, 2024.
 #. Han Li, Jialiang Lu, Hongjun Ji, Lizhan Hong and Helin Gong, `A noise and vibration tolerant resnet for field reconstruction with sparse sensor`_, Communications in Computational Physics, 2023.
