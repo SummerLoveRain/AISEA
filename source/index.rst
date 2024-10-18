@@ -429,22 +429,45 @@ DEPINN
 
 #. Yu Yang, Helin Gong, Qiaolin He, Qihong Yang, Yangtao Deng and Shiquan Zhang, `On the uncertainty analysis of the data-enabled physics-informed neural network for solving neutron diffusion eigenvalue problem <https://doi.org/10.1080/00295639.2023.2236840>`_, *Nuclear Science and Engineering*, 2023.
 
-PMNN and IPMNN
-----
-#. Qihong Yang, Yangtao Deng, Yu Yang, Qiaolin He, Shiquan Zhang, `Neural Networks Based on Power Method and Inverse Power Method for Solving Linear Eigenvalue Problems <https://www.sciencedirect.com/science/article/abs/pii/S0898122123003085?via%3Dihub>`_, Computers & Mathematics with Applications, Volume 147, 1 October 2023, Pages 14-24.
-
 GIPMNN and PC-GIPMNN
 ----
+#. Qihong Yang, Yangtao Deng, Yu Yang, Qiaolin He, Shiquan Zhang, `Neural Networks Based on Power Method and Inverse Power Method for Solving Linear Eigenvalue Problems <https://www.sciencedirect.com/science/article/abs/pii/S0898122123003085?via%3Dihub>`_, Computers & Mathematics with Applications, Volume 147, 1 October 2023, Pages 14-24.
 #. Qihong Yang, Yu Yang, Yangtao Deng, Qiaolin He, Helin Gong, Shiquan Zhang, `Physics-constrained neural network for solving discontinuous interface K-eigenvalue problem with application to reactor physics <https://link.springer.com/article/10.1007/s41365-023-01313-0>`_, Nuclear Science and Techniques, Volume 34, article number 161, 2023.
 
+#. Shupei Yu, Qiaolin He, Shiquan Zhang, Qihong Yang, Yu Yang and Helin Gong, `Solving Multi-Group Neutron Diffusion Eigenvalue Problem with Decoupling Residual Loss Function <https://localhost>`_, Communications in Computational Physics, submitted
+
+MMPDE
+----
+#. Yu Yang, Qihong Yang, Yangtao Deng, Qiaolin He, `Moving sampling physics-informed neural networks induced by moving mesh PDE <https://www.sciencedirect.com/science/article/abs/pii/S0893608024006300>`_, Neural Networks, Volume 180, December 2024, 106706.
+
+Others
+----
+#. Han Li,Lei Zhang, Helin Gong, `A Comprehensive Deep Learning–Based Approach to Field Reconstruction in Reactor Cores <https://www.tandfonline.com/doi/abs/10.1080/00295639.2024.2403895>`_, Nuclear Science and Engineering, 2024.
+#. Han Li, Jialiang Lu, Hongjun Ji, Lizhan Hong and Helin Gong, `A noise and vibration tolerant resnet for field reconstruction with sparse sensor`_, Communications in Computational Physics, 2023.
+#. Han Li, Helin Gong, Chuanju Xu, `Neural-Network-Augmented Empirical Interpolation Method for Field Reconstruction with Noise and Vibration Tolerance <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4715293>`_, Available at SSRN 4715293.
+#. Lizhan Hong, Helin Gong, Hongjun Ji, Jialiang Lu, Han Li and Qing Li, `Optimizing near-carbon-free nuclear energy systems: advances in reactor operation digital twin through hybrid machine learning algorithms for parameter identification and state estimation <https://link.springer.com/article/10.1007/s41365-024-01494-2>`_, Nuclear Science and Techniques, Volume 35, article number 135, 2024.
 
 Cited by
 ====================================
 #. Kim G, Heo G. `Solving partial differential equation for atmospheric dispersion of radioactive material using physics-informed neural network <https://www.sciencedirect.com/science/article/pii/S1738573323001195>`_. Nuclear Engineering and Technology, 2023, 55(6): 2305-2314.
 #. Zhou H, Cheng S, `Arcucci R. Multi-fidelity physics constrained neural networks for dynamical systems <https://www.sciencedirect.com/science/article/pii/S0045782524000148>`_. Computer Methods in Applied Mechanics and Engineering. 2024 Feb 15;420:116758.
 #. Hu J, Zhu K, Cheng S, Kovalchuk NM, Soulsby A, Simmons MJ, Matar OK, Arcucci R. `Explainable AI models for predicting drop coalescence in microfluidics device <https://www.sciencedirect.com/science/article/pii/S1385894723071978>`_. Chemical Engineering Journal. 2024 Jan 2:148465.
-#. Wang HY, Zhou H, Cheng S. `Dynamical system prediction from sparse observations using deep neural networks with Voronoi tessellation and physics constraint <https://www.tandfonline.com/doi/citedby/10.1080/00295639.2023.2236840?scroll=top&needAccess=true>`_. Computer Methods in Applied Mechanics and Engineering 432, pages 117339.
-
+#. Chuandong Xie, Jinwei Hu, George Vasdravellis, Xiantie Wang, Sibo Cheng, `Explainable AI model for predicting equivalent viscous damping in dual frame–wall resilient system <https://www.sciencedirect.com/science/article/pii/S2352710224021326>`_, Journal of Building Engineering, Volume 96, 1 November 2024, 110564.
+#. Wang HY, Zhou H, Cheng S, `Dynamical system prediction from sparse observations using deep neural networks with Voronoi tessellation and physics constraint <https://www.tandfonline.com/doi/citedby/10.1080/00295639.2023.2236840?scroll=top&needAccess=true>`_. Computer Methods in Applied Mechanics and Engineering 432, pages 117339.
+#. Jahani-nasab, Mahyar and Bijarchi, Mohamad Ali, `Revising the Structure of Recurrent Neural Networks to Eliminate Numerical Derivatives in Forming Physics Informed Loss Terms with Respect to Time <https://arxiv.org/abs/2409.10388>`_, arXiv:2409.10388.
+#. Dai, Qianwei and Zhou, Wei and He, Run and Yang, Junsheng and Zhang, Bin and Lei, Yi, `A Data Assimilation Methodology to Analyze the Unsaturated Seepage of an Earth--Rockfill Dam Using Physics-Informed Neural Networks Based on Hybrid Constraints <https://www.mdpi.com/2073-4441/16/7/1041>`_, Water, Volume 16, Issue 7, 2024.
+#. Liu, Dong and Zhang, Bin and Jiang, Yong and An, Ping and Chen, Zhang, `Deep learning driven inverse solving method for neutron diffusion equations and three-dimensional core power reconstruction technology <https://www.sciencedirect.com/science/article/abs/pii/S0029549324006903>`_, Nuclear Engineering and Design, Volume 429, 1 December 2024, 113590.
+#. Xiangyu Li, Heng Xie, `Research on the high-performance computing method for the neutron diffusion spatiotemporal kinetics equation based on the convolutional neural network <https://www.sciencedirect.com/science/article/abs/pii/S0306454924006066>`_, Annals of Nuclear Energy, Volume 211, February 2025, 110943.
+#. Heng Zhang, Yun-Ling He, Dong Liu, Qin Hang, He-Min Yao, Di Xiang, `Residual resampling-based physics-informed neural network for neutron diffusion equations <https://arxiv.org/abs/2407.10988>`_, arXiv:2407.10988.
+#. Gibeom Kim, Gyunyoung Heo, `Solving partial differential equation for atmospheric dispersion of radioactive material using physics-informed neural network <https://www.sciencedirect.com/science/article/pii/S1738573323001195>`_, Nuclear Engineering and Technology, Volume 55, Issue 6, June 2023, Pages 2305-2314.
+#. Zeng Fulin, Zhang Xiaolong, Zhao Pengcheng, `Study on Neutron Diffusion Calculation Method Based on hp-VPINN <http://hdlgc.xml-journal.net/en/article/doi/10.13832/j.jnpe.2024.02.0053>`_,  Nuclear Power Engineering, 2024, 45(2), 53-62.
+#. Jinde Liu, Xilong Dou, Xi He, Chen Yang, and Gang Jiang, `Calculating many excited states of the multidimensional time-independent Schr{\"o}dinger equation using a neural network <https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.032803>`_, Physical Review A, Volume 108, number 3, pages 032803, 2023.
+#. de Lourdes Berrios Cintr{\'o}n, Mar{\'\i}a and Broomandi, Parya and C{\'a}rdenas-Escudero, Jafet and C{\'a}ceres, Jorge O and Gal{\'a}n-Madruga, David, `Elucidating Best Geospatial Estimation Method Applied to Environmental Sciences <https://link.springer.com/article/10.1007/s00128-023-03835-0>`_, Bulletin of Environmental Contamination and Toxicology, Volume 112, article number 6, (2024).
+#. Shahab, Muhammad Luthfi and Susanto, Hadi, `Neural networks for bifurcation and linear stability analysis of steady states in partial differential equations <https://www.sciencedirect.com/science/article/pii/S0096300324004466>`_, Applied Mathematics and Computation, Volume 483, pages 128985, 2024.
+#. JinDe Liu, Chenglong Qin, Xi He, Gang Jiang, `Calculate electronic excited states using neural networks with effective core potential <https://arxiv.org/abs/2312.15216>`_, arXiv:2312.15216.
+#. J. Jon Ryu, Xiangxiang Xu, H. S. Melihcan Erol, Yuheng Bu, Lizhong Zheng, Gregory W. Wornell, `Operator SVD with Neural Networks via Nested Low-Rank Approximation <https://arxiv.org/abs/2402.03655>`_, arXiv:2402.03655.
+#. Jinde Liu, Chen Yang, Gang Jiang, `Solving Multi-Dimensional Schrödinger Equations Based on EPINNs <https://arxiv.org/abs/2210.00454>`_, arXiv:2210.00454.
+#. Zelong Zhao, Yahui Wang, Zhexian Liu, Honghang Chi and Yu Ma, `Reduced-order method for nuclear reactor primary circuit calculation <https://link.springer.com/article/10.1007/s41365-024-01535-w>`_, Nuclear Science and Techniques, Volume 35, number 11, pages 190, 2024.
 
 
 .. .. |SCUMath| image:: ./_static/scu/scu_math.jpg
