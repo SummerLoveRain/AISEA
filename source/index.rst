@@ -447,6 +447,10 @@ Digital twins related
 #. Han Li, Helin Gong, Chuanju Xu, `Neural-Network-Augmented Empirical Interpolation Method for Field Reconstruction with Noise and Vibration Tolerance <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4715293>`_, accepted by Communications in Computational Physics.
 #. Lizhan Hong, Helin Gong, Hongjun Ji, Jialiang Lu, Han Li and Qing Li, `Optimizing near-carbon-free nuclear energy systems: advances in reactor operation digital twin through hybrid machine learning algorithms for parameter identification and state estimation <https://link.springer.com/article/10.1007/s41365-024-01494-2>`_, Nuclear Science and Techniques, Volume 35, article number 135, 2024.
 
+AISEA Software Packages
+----
+#. 余书沛，吕皓琛，龚禾林，张世全，贺巧琳，杨宇，杨其洪，曾未．`求解中子扩散方程特征值问题的深度神经网络方法和软件 <https://link.cnki.net/urlid/11.2011.o4.20241024.0943.002>`_．计算物理, 1-14[2024-10-25].
+
 Cited by
 ====================================
 #. Kim G, Heo G. `Solving partial differential equation for atmospheric dispersion of radioactive material using physics-informed neural network <https://www.sciencedirect.com/science/article/pii/S1738573323001195>`_. Nuclear Engineering and Technology, 2023, 55(6): 2305-2314.
