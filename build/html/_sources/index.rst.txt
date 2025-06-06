@@ -72,11 +72,17 @@ Team Members
 | `Prof. Qiaolin He`_|`A.P. Shiquan Zhang`_|`A.P. Jialiang Lu`_ |
 +--------------------+---------------------+--------------------+
 
-+--------------------+--------------------+--------------------+
-+     |HelinGong|    |     |HongjunJi|    |     |SijiaKong|    |
-+--------------------+--------------------+--------------------+
-+ `A.P. Helin Gong`_ | `A.P. Hongjun Ji`_ | `Tch. Sijia Kong`_ |
-+--------------------+--------------------+--------------------+
++--------------------+--------------------+
++     |HelinGong|    |     |HongjunJi|    |
++--------------------+--------------------+
++ `A.P. Helin Gong`_ | `A.P. Hongjun Ji`_ |
++--------------------+--------------------+
+
+.. +--------------------+--------------------+--------------------+
+.. +     |HelinGong|    |     |HongjunJi|    |     |SijiaKong|    |
+.. +--------------------+--------------------+--------------------+
+.. + `A.P. Helin Gong`_ | `A.P. Hongjun Ji`_ | `Tch. Sijia Kong`_ |
+.. +--------------------+--------------------+--------------------+
 
 
 
@@ -434,7 +440,7 @@ GIPMNN and PC-GIPMNN
 #. Qihong Yang, Yangtao Deng, Yu Yang, Qiaolin He, Shiquan Zhang, `Neural Networks Based on Power Method and Inverse Power Method for Solving Linear Eigenvalue Problems <https://www.sciencedirect.com/science/article/abs/pii/S0898122123003085?via%3Dihub>`_, Computers & Mathematics with Applications, Volume 147, 1 October 2023, Pages 14-24.
 #. Qihong Yang, Yu Yang, Yangtao Deng, Qiaolin He, Helin Gong, Shiquan Zhang, `Physics-constrained neural network for solving discontinuous interface K-eigenvalue problem with application to reactor physics <https://link.springer.com/article/10.1007/s41365-023-01313-0>`_, Nuclear Science and Techniques, Volume 34, article number 161, 2023.
 
-#. Shupei Yu, Qiaolin He, Shiquan Zhang, Qihong Yang, Yu Yang and Helin Gong, `Solving Multi-Group Neutron Diffusion Eigenvalue Problem with Decoupling Residual Loss Function <https://localhost>`_, Communications in Computational Physics, submitted
+#. Shupei Yu, Qiaolin He, Shiquan Zhang, Qihong Yang, Yu Yang and Helin Gong, `Solving Multi-Group Neutron Diffusion Eigenvalue Problem with Decoupling Residual Loss Function <https://arxiv.org/abs/2411.15693>`_, Communications in Computational Physics. 2025.
 
 MMPDE
 ----
